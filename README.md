@@ -1,6 +1,6 @@
 # SpotifyMCYJ
 
 Manuel - inicio
-Jesus - left side y header
-Carlos - buscar y footer
+Jesus - left side 
+Carlos - buscar y footer y header
 Yeray - Podcast
