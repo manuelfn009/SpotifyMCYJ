@@ -2,5 +2,5 @@
 
 Manuel - inicio
 Jesus - left side y header
-Carlos - buscar
+Carlos - buscar y footer
 Yeray - Podcast
